@@ -50,7 +50,6 @@
 10. python面向对象
     - 面向对象介绍
     - python类的定义与实例化
-    - python类方法
     - python类的魔术方法
 11. 自己动手实现requests
     - 解析GET HTTP请求
