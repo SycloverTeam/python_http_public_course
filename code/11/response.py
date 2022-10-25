@@ -36,6 +36,6 @@ class Response():
 
 
 def analysis_response(raw_data):
-    # 解释成功则返回一个Response实例，记得调用serResponse方法
+    # 解释成功则返回一个Response实例，记得调用setResponse方法
     # 解析失败则 raise InvalidResponseError()
     ...
